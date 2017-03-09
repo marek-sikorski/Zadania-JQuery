@@ -1,0 +1,25 @@
+#carousel {
+	position: relative;
+	width: 1200px;
+	height: 400px;
+	margin: 0 auto;
+	border: 2px solid red;
+	overflow: hidden;
+}
+ul {
+	width: 3600px;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+li {
+	width: 1200px;
+	height: 400px;
+	float: left;
+
+}
+button {
+	position: absolute;
+	left: 20px;
+	bottom: 20px;
+}
